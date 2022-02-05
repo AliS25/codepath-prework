@@ -2,12 +2,10 @@
 
 ### App Description
 `TODO://` Add app description
-The app has a custom text and background color. When the button is tapped the text color changes back and forth between two custom colors.
+The app has a custom text and background color. When the button is tapped the text color changes back and forth between two costum colors.
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-![](https://i.imgur.com/7INr5ZS.gif)
+<img src="https://i.imgur.com/7INr5ZS.gif" width=200><br>
 
 
 ### Required User Stories
